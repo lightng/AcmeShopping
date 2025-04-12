@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\AcmeShopping.BusinessLogic.csproj" />
+    <ProjectReference Include="..\AcmeShopping.BusinessLogic\AcmeShopping.BusinessLogic.csproj" />
   </ItemGroup>
 
   <ItemGroup>
